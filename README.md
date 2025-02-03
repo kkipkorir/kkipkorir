@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkipkorir
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in software and Data 
+- 🌱 I’m currently learning Data science and Web dev
 - 💞️ I’m looking to collaborate 
   
 
